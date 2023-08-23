@@ -1,0 +1,74 @@
+{
+  "receitas": [
+    {
+      "id": 1,
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de açúcar",
+        "1/2 xícara de cacau em pó",
+        "1 colher de chá de fermento em pó",
+        "1 colher de chá de baunilha",
+        "1 xícara de leite",
+        "1/2 xícara de óleo vegetal"
+      ],
+      "modoPreparo": "1. Preaqueça o forno a 180°C. Unte uma forma redonda com manteiga e farinha.\n2. Em uma tigela grande, misture a farinha, o açúcar, o cacau e o fermento.\n3. Adicione a baunilha, o leite e o óleo à mistura seca e misture até ficar homogêneo.\n4. Despeje a massa na forma preparada e leve ao forno por cerca de 30-35 minutos.\n5. Faça o teste do palito para verificar se o bolo está pronto. Deixe esfriar antes de desenformar."
+    },
+    {
+      "id": 2,
+      "titulo": "Sopa de Legumes",
+      "ingredientes": [
+        "2 cenouras em rodelas",
+        "1 batata cortada em cubos",
+        "1 cebola picada",
+        "2 dentes de alho picados",
+        "1 abobrinha cortada em pedaços",
+        "1 litro de caldo de legumes",
+        "Sal e pimenta a gosto"
+      ],
+      "modoPreparo": "1. Em uma panela grande, refogue a cebola e o alho em um pouco de azeite.\n2. Adicione as cenouras e a batata, refogando por alguns minutos.\n3. Despeje o caldo de legumes na panela e deixe ferver. Reduza o fogo e cozinhe até que os legumes estejam macios.\n4. Adicione a abobrinha e cozinhe por mais alguns minutos.\n5. Tempere com sal e pimenta a gosto.\n6. Sirva quente."
+    },
+    {
+      "id": 3,
+      "titulo": "Frango Grelhado com Limão",
+      "ingredientes": [
+        "2 peitos de frango",
+        "Suco de 2 limões",
+        "3 colheres de sopa de azeite",
+        "2 dentes de alho picados",
+        "1 colher de chá de ervas frescas picadas",
+        "Sal e pimenta a gosto"
+      ],
+      "modoPreparo": "1. Em uma tigela, misture o suco de limão, o azeite, o alho, as ervas, o sal e a pimenta.\n2. Coloque os peitos de frango na marinada e deixe descansar na geladeira por pelo menos 30 minutos.\n3. Pré-aqueça a grelha em fogo médio-alto.\n4. Grelhe o frango por cerca de 6-7 minutos de cada lado, até que esteja cozido por completo.\n5. Retire da grelha e deixe descansar por alguns minutos antes de servir."
+    },
+    {
+      "id": 4,
+      "titulo": "Massa de Pizza Caseira",
+      "ingredientes": [
+        "3 xícaras de farinha de trigo",
+        "1 colher de chá de sal",
+        "1 colher de chá de açúcar",
+        "1 colher de sopa de fermento biológico seco",
+        "1 xícara de água morna",
+        "2 colheres de sopa de azeite",
+        "Molho de tomate, queijo e ingredientes a gosto"
+      ],
+      "modoPreparo": "1. Em uma tigela, misture a água morna, o açúcar e o fermento. Deixe descansar por 5-10 minutos.\n2. Adicione a farinha e o sal à mistura de fermento. Amasse até obter uma massa homogênea.\n3. Cubra a massa com um pano e deixe descansar por cerca de 1 hora, até dobrar de tamanho.\n4. Pré-aqueça o forno a 220°C.\n5. Abra a massa em uma superfície enfarinhada, dando o formato desejado.\n6. Espalhe molho de tomate sobre a massa e adicione queijo e outros ingredientes a gosto.\n7. Asse a pizza no forno pré-aquecido por 12-15 minutos, até que a massa esteja dourada e o queijo derretido."
+    },
+    {
+      "id": 5,
+      "titulo": "Salada de Quinoa",
+      "ingredientes": [
+        "1 xícara de quinoa cozida",
+        "1 pepino em cubos",
+        "1 pimentão vermelho em tiras",
+        "1/2 cebola roxa picada",
+        "1/4 xícara de salsa picada",
+        "Suco de 1 limão",
+        "2 colheres de sopa de azeite",
+        "Sal e pimenta a gosto"
+      ],
+      "modoPreparo": "1. Em uma tigela grande, misture a quinoa cozida, o pepino, o pimentão, a cebola e a salsa.\n2. Em uma tigela pequena, misture o suco de limão, o azeite, o sal e a pimenta.\n3. Despeje o molho sobre a salada e misture bem.\n4. Deixe a salada descansar na geladeira por pelo menos 30 minutos antes de servir."
+    }
+  ]
+}
